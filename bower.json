@@ -1,0 +1,32 @@
+{
+  "name": "bower.json",
+  "version": "1.0.0",
+  "authors": [
+    "TemRhythm <temrhythm@gmail.com>"
+  ],
+  "description": "bootstrap-sass-sticky-footer-template-with-navbar",
+  "main": "index.html",
+  "keywords": [
+    "bootstrap",
+    "sass",
+    "sticky",
+    "footer",
+    "with",
+    "navbar",
+    "template"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/TemRhythm/bootstrap-sass-sticky-footer-template-with-navbar",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.2.0+1",
+    "html5shiv": "~3.7.2",
+    "respond": "~1.4.2"
+  }
+}
